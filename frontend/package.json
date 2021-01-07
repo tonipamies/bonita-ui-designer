@@ -9,7 +9,7 @@
   "dependencies": {
     "angular-resizable": "1.2.0",
     "angular-switcher": "0.2.7",
-    "babel-polyfill": "6.3.14",
+    "babel-polyfill": "6.26.0",
     "mousetrap": "1.5.3",
     "ngstorage": "0.3.10"
   },
