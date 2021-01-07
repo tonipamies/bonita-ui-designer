@@ -10,7 +10,7 @@
     "angular-resizable": "1.2.0",
     "angular-switcher": "0.2.7",
     "babel-polyfill": "6.3.14",
-    "mousetrap": "1.5.3",
+    "mousetrap": "1.6.5",
     "ngstorage": "0.3.10"
   },
   "devDependencies": {
